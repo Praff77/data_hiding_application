@@ -1,0 +1,48 @@
+D:\miniproject te\Loginform\Loginform\bin\Release\Loginform.exe
+D:\miniproject te\Loginform\Loginform\bin\Release\Loginform.pdb
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\ResolveAssemblyReference.cache
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.Add_User.resources
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.Files.resources
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.Main.resources
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.Login.resources
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.Properties.Resources.resources
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.Remove_User.resources
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\GenerateResource.read.1.tlog
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\GenerateResource.write.1.tlog
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.exe
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.pdb
+D:\miniproject te\Loginform\Loginform\bin\Release\Loginform.exe.config
+D:\miniproject te\Loginform\Loginform\bin\Release\authorization.sdf
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.Locking.resources
+D:\miniproject te\Loginform\Loginform\obj\x86\Release\Loginform.UnLocking.resources
+D:\Final Version for Testing\Loginform\Loginform\bin\Release\Loginform.exe.config
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.exe
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.pdb
+D:\Final Version for Testing\Loginform\Loginform\bin\Release\Loginform.exe
+D:\Final Version for Testing\Loginform\Loginform\bin\Release\Loginform.pdb
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.Add_User.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.Files.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.Locking.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.Main.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.Login.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.Properties.Resources.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.Remove_User.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\Loginform.UnLocking.resources
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Final Version for Testing\Loginform\Loginform\obj\x86\Release\GenerateResource.write.1.tlog
+D:\work\Projects\Updated TE Project\Loginform\Loginform\bin\Release\Loginform.exe.config
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.exe
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.pdb
+D:\work\Projects\Updated TE Project\Loginform\Loginform\bin\Release\Loginform.exe
+D:\work\Projects\Updated TE Project\Loginform\Loginform\bin\Release\Loginform.pdb
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.Add_User.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.Files.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.Locking.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.Main.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.Login.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.Properties.Resources.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.Remove_User.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.UnLocking.resources
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.csprojResolveAssemblyReference.cache
+D:\work\Projects\Updated TE Project\Loginform\Loginform\obj\x86\Release\Loginform.csproj.GenerateResource.Cache
